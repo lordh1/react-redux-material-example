@@ -1,0 +1,17 @@
+.Main {
+    justify-content: center;
+    display: flex;
+}
+
+.Margin {
+    margin: 20px;
+}
+
+.Button {
+    float: right !important;
+}
+
+.PlayerNumber {
+    font-size: 20px;
+    font-weight: bold;
+}
