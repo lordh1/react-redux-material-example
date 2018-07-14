@@ -10,5 +10,5 @@ build
 .DS_Store
 npm-debug.log
 
-#others
+# Others
 package-lock.json
